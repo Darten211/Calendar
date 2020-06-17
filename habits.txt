@@ -1,0 +1,1 @@
+Cel #1,Cel #2,Cel na przynajmniej dwie linijki
